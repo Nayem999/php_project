@@ -6,7 +6,7 @@ class Database {
     public  $db;    
     private $hostname = 'localhost';
     private $username = '';
-    private $password = ''
+    private $password = '';
     private $database = '';
     public $table_name = '';
 
