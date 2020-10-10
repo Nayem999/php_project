@@ -1,0 +1,15 @@
+{
+    "name": "books/sharing",
+    "description": "Making for books sharing in the world",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nayem",
+            "email": "shalehahmed34@gamil.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": ["src/"]}
+    }
+}
